@@ -1,0 +1,16 @@
+{
+  "name": "package.json",
+  "version": "6.14.4",
+  "description": "first-ever server with Node.js that serves static rеsources such as HTML documents, images, and videos",
+  "main": "app.js",
+  "dependencies": {
+    "serve-static": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
